@@ -28,8 +28,8 @@ url: "https://fnery.github.io"
 github:
   username: fnery # change to your github username
 
-twitter:
-  username: # twitter_username # change to your twitter username
+# twitter:
+#   username: # twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -195,10 +195,11 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [tags]
+  # enabled: [categories, tags]
   layouts:
-    category: category
+    # category: category
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
+    # category: /categories/:name/
