@@ -3,7 +3,6 @@ layout: post
 title:  "Trading on Uniswap V3 using Python"
 date: 2024-04-04 11:02:38 +0100
 tags: [blockchains]
-author: fabio
 ---
 
 ## Introduction
