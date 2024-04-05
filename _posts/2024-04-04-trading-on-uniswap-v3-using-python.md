@@ -60,7 +60,7 @@ Once the transaction is confirmed, we should have 0.02 WETH tokens in our wallet
 
 Before starting the implementation, let's navigate to the [Uniswap UI](https://app.uniswap.org/swap), connect our Sepolia account, and preview the swap.
 
-<a id="swap_uniswap_figure" href="#swap_uniswap_figure"></a>
+<a id="swap_uniswap_figure" ></a>
 ![swap_uniswap](/assets/img/swap_uniswap.png){: width="500"}
 *Previewing the swap on the Uniswap UI*
 
