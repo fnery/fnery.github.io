@@ -17,6 +17,6 @@ A few reasons[^1]:
 
 ---
 
-[^1]: I reserve the right to change my mind on this (on anything else! 🙂).
+[^1]: I reserve the right to change my mind on this (or on anything else! 🙂).
 [^2]: I reply to all non-spam emails.
 [^3]: If I learn something new or I'm corrected, it will most likely find its way into a future update or post.
