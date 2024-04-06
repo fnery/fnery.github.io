@@ -13,10 +13,9 @@ A few reasons[^1]:
 
 - Simplicity 😌.
 - Comment sections are often low signal-to-noise.
-- I offer ways to contact me. Sure, there's a barrier to doing so (easier to drop a quick comment vs. emailing[^2]). This is by design. I believe this leads to more meaningful exchanges[^3].
+- I offer ways to contact me. Sure, there's a barrier to doing so (easier to drop a quick comment vs. emailing). This is by design. I believe this leads to more meaningful exchanges[^2].
 
 ---
 
 [^1]: I reserve the right to change my mind on this (or on anything else! 🙂).
-[^2]: I reply to all non-spam emails.
-[^3]: If I learn something new or I'm corrected, it will most likely find its way into a future update or post.
+[^2]: If I learn something new or I'm corrected, it will most likely find its way into a future update or post.
