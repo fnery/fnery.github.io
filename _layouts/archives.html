@@ -28,6 +28,11 @@ layout: page
         {{ post.date | date: df_strftime_m }}
       </span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
+    <!-- Check for last_modified_at and display it -->
+    {% if post.last_modified_at %}
+        <span class="text-muted" style="font-size: 0.8em;">(last updated: {{ post.last_modified_at | date: "%d %b %Y" }})</span>
+    {% endif %}
     </li>
 
     {% if forloop.last %}</ul>{% endif %}
